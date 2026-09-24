@@ -6,6 +6,23 @@
 > assumed; if you have written code before, this course will deepen and
 > formalize what you already know.
 
+## Table of Contents
+
+- [Course Information](#course-information)
+- [Course Description](#course-description)
+- [Prerequisites](#prerequisites)
+- [Learning Outcomes](#learning-outcomes)
+- [Open Textbooks](#open-textbooks)
+- [Tools and Environment](#tools-and-environment)
+- [Lessons](#lessons)
+  - [Lesson 1: Programs, Variables, and Expressions](#lesson-1-programs-variables-and-expressions)
+  - [Lesson 2: Decisions and Repetition](#lesson-2-decisions-and-repetition)
+  - [Lesson 3: Functions and Structured Problem Solving](#lesson-3-functions-and-structured-problem-solving)
+- [Course Schedule (14 weeks)](#course-schedule-14-weeks)
+- [Assessment](#assessment)
+- [Course Policies](#course-policies)
+- [Resources](#resources)
+
 ---
 
 ## Course Information
@@ -425,7 +442,7 @@ the instructor early in the term so it can be arranged.
 
 ---
 
-*This syllabus is offered as open course material. You are free to copy,
-adapt, and redistribute it for non-commercial teaching use under the terms of
-the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license. The
-books listed above retain their own licenses as noted by their authors.*
+> This syllabus is offered as open course material. You are free to copy,
+> adapt, and redistribute it for non-commercial teaching use under the terms of
+> the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license. The
+> books listed above retain their own licenses as noted by their authors.
